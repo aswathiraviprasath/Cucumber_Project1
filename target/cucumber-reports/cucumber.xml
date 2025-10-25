@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="15.2" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validate the BobCat company Equipment details" name="" time="14.935">
+<system-out><![CDATA[
+Given Load the chromebrowser................................................passed
+And Load the newURL "https://www.bobcat.com/in/en"..........................passed
+And Maximize the chromewindow...............................................passed
+And Close the Cookies window................................................passed
+When Select the Equipment dropdown..........................................passed
+And Select the Loaders option...............................................passed
+And Show the available Loaders..............................................passed
+And Select the Mini Excavators..............................................passed
+And Show the available Mini Excavators......................................passed
+And Select the Forklifts....................................................passed
+And Show the available Forklifts............................................passed
+Then Select the Warehouse Equipment.........................................passed
+And Show the available Warehouse Equipment..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
