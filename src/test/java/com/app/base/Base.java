@@ -116,6 +116,10 @@ public class Base {
 public static void test4() {
 			
 		}
+public static void test5() {
+			
+		}
+	
 }
 	
 
